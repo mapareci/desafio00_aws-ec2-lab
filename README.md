@@ -36,7 +36,7 @@ Este repositório documenta os conteúdos e práticas desenvolvidas durante a fo
 
 ---
 
-## Hands-on Detalhado
+## Módulo 2 Detalhado
 
 ### 1. Controle de Gastos e Alertas
 - Configuração do **Billing Dashboard** para monitoramento.
